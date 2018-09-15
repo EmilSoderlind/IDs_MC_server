@@ -16,7 +16,7 @@ Servern körs på en virtuell maskin som hostas via [Google Cloud Platform](http
 
 ## Steg-för-steg guide
 
-#### Krav
+#### 0. Krav
 * **Minecraft: JAVA EDITION**  
 Köpt och installerat [Minecraft Java-versionen](https://minecraft.net/sv-se/) till en kostnad av 225 riksdaler.
 * En dator som inte är allt för [potatis](https://assetsds.cdnedge.bluemix.net/sites/default/files/styles/big_2/public/feature/images/potato_pc.jpg?itok=yvuy1BJ3) samt ha en del utrymme till övers på hårddisken..
