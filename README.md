@@ -51,3 +51,6 @@ Ladda ned Twitch Desktop App från följande länk: [https://app.twitch.tv/](htt
 
 * Dubbelklicka på den nya servern i listan.
 * **TJOOOHOOOO, DU ÄR INNE! VÄLKOMMEN!**
+
+## Houston, we have a problem
+Verkar servern ligga nere eller har du problem kan du enklast slänga iväg ett mail till: **Soderlindemil@gmail.com**.
