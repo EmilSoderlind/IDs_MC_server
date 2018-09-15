@@ -1,6 +1,6 @@
 # ID:s Minecraft server (SkyFactory 3)
 
-## Nuvarande IP-adress: [35.228.123.155:25566](35.228.123.155:25566)
+## Nuvarande IP-adress: [35.228.36.228:25565](35.228.36.228:25565)
 
 ## Om servern
 Servern kör en moddad version (FTB Presents SkyFactory 3) av Minecraft 1.20.2. 
