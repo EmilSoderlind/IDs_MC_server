@@ -1,8 +1,8 @@
-# ID:s Minecraft server
+# ID:s Minecraft server (SkyFactory 3)
 
-## Nuvarande IP: [35.228.123.155:25566](35.228.123.155:25566)
+## Nuvarande IP-adress: [35.228.123.155:25566](35.228.123.155:25566)
 
-### Om servern
+## Om servern
 Servern kör en moddad version (FTB Presents SkyFactory 3) av Minecraft 1.20.2. 
 
 Ursprungligen startade vi enbart med ett träd på ett jordblock [svävnade i tomma intet](https://static.planetminecraft.com/files/resource_media/screenshot/1530/skyfactory9192960.jpg). Den moddade versionen låter oss använda tekniker och föremål som inte finns i det vanliga o-moddade Minecraft. För er som inte tidigare spelat moddat Minecraft finns det massor att lära sig och utforska, i synnerhet automatisering á la Factorio.
@@ -14,10 +14,11 @@ Servern körs på en virtuell maskin som hostas via [Google Cloud Platform](http
 * Förstör inte andras byggen. Stjäl inte folks prylar.
 * Sunt förnuft & ID-kärlek<3.
 
-### Steg-för-steg guide
+## Steg-för-steg guide
 
 #### Krav
-* Du kommer behöva ha köpt [Minecraft Java-versionen](https://minecraft.net/sv-se/) till en kostnad av 225 riksdaler. Nedan förutsätts att du köpt, laddat ner och installerat denna. Mer information i följande länk: [https://minecraft.net/sv-se/](https://minecraft.net/sv-se/).
+* **Minecraft: JAVA EDITION**  
+Du kommer behöva ha köpt [Minecraft Java-versionen](https://minecraft.net/sv-se/) till en kostnad av 225 riksdaler. Nedan förutsätts att du köpt, laddat ner och installerat denna. Mer information i följande länk: [https://minecraft.net/sv-se/](https://minecraft.net/sv-se/).
 * En dator som inte är allt för [potatis](https://assetsds.cdnedge.bluemix.net/sites/default/files/styles/big_2/public/feature/images/potato_pc.jpg?itok=yvuy1BJ3) samt ha en del utrymme till övers på hårddisken..
 
 #### 1. Twitch Desktop App
