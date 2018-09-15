@@ -18,7 +18,7 @@ Servern körs på en virtuell maskin som hostas via [Google Cloud Platform](http
 
 #### Krav
 * **Minecraft: JAVA EDITION**  
-Du kommer behöva ha köpt [Minecraft Java-versionen](https://minecraft.net/sv-se/) till en kostnad av 225 riksdaler. Nedan förutsätts att du köpt, laddat ner och installerat denna. Mer information i följande länk: [https://minecraft.net/sv-se/](https://minecraft.net/sv-se/).
+Köpt och installerat [Minecraft Java-versionen](https://minecraft.net/sv-se/) till en kostnad av 225 riksdaler.
 * En dator som inte är allt för [potatis](https://assetsds.cdnedge.bluemix.net/sites/default/files/styles/big_2/public/feature/images/potato_pc.jpg?itok=yvuy1BJ3) samt ha en del utrymme till övers på hårddisken..
 
 #### 1. Twitch Desktop App
