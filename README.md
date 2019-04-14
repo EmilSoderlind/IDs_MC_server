@@ -1,3 +1,5 @@
+# Dessvärre inte längre aktiv.
+
 # ID:s Minecraft server (SkyFactory 3)
 
 ## Nuvarande IP-adress: [35.228.36.228:25566](35.228.36.228:25566)
